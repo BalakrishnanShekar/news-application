@@ -1,4 +1,4 @@
-Android Application Project News Application made using kotlin as primary language.
+Android Application Project News Application made in Android Studio using Kotlin as primary language.
 
 This application is developed using recyclerview,retrofit,REST API.
 
